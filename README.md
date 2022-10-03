@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-####Trying to get familiar with github
+My first repository on GitHub.
+I love coffee, pizza and novels.
